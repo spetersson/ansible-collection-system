@@ -1,0 +1,4 @@
+---
+# defaults file for systemd-resolved
+LLMNR: False
+DNSStubListener: False
